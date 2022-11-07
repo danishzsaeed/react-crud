@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Saad111",
+      "email": "saad@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Aariz",
+      "email": "aariz@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Zaviyan",
+      "email": "zaviyan@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Amal",
+      "email": "amal@gmail.com"
+    },
+    {
+      "name": "Saad khan",
+      "email": "saadkhan@gmail.com",
+      "id": 5
+    }
+  ]
+}
